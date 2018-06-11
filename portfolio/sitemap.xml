@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://portfolio.com/index.html</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://portfolio.com/images/fondo_013-crop-u293.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/imagen_trabajo_retrato_imagen_1t_retrato_paula_delgado-crop-u420.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/imagen_trabajo_hojas_imagen_1t_hojas_paula_delgado-crop-u393.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/escolar-crop-u456.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/ca_01_ajei_1c_pauladelgado-crop-u572.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/bolardo-crop-u616.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/escolar-crop-u464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/ca_01_ajei_1c_pauladelgado-crop-u566.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://portfolio.com/images/bolardo-crop-u610.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://portfolio.com/assets/trimestre-1_proyecto_materialescolar_images_renderfinal.png</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
