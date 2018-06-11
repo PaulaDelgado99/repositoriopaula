@@ -1,0 +1,79 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1528725793509">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3805467157" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="trimestre-1_proyecto_materialescolar_images_renderfinal.png" crc="422241499" seo="true" mt="1528717072000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u817.php" crc="179532837" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u144-4.png" crc="525083195" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u153.png" crc="4221714014" ref="index"/>
+    <file name="u153-a.png" crc="99044368" ref="index"/>
+    <file name="u262.png" crc="4057231431" ref="index"/>
+    <file name="u262-a.png" crc="427838459" ref="index"/>
+    <file name="u241.png" crc="4226470877" ref="index"/>
+    <file name="u241-a.png" crc="501696795" ref="index"/>
+    <file name="u220.png" crc="4215310909" ref="index"/>
+    <file name="u220-a.png" crc="466250655" ref="index"/>
+    <file name="u199.png" crc="506274393" ref="index"/>
+    <file name="u199-a.png" crc="513734620" ref="index"/>
+    <file name="fondo_013-crop-u293.png" crc="3809491748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen_trabajo_retrato_imagen_1t_retrato_paula_delgado-crop-u420.png" crc="486186886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen_trabajo_hojas_imagen_1t_hojas_paula_delgado-crop-u393.jpg" crc="171458905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u440-4.png" crc="3897218394" ref="index"/>
+    <file name="escolar-crop-u456.jpg" crc="409869404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ca_01_ajei_1c_pauladelgado-crop-u572.jpg" crc="4082352569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bolardo-crop-u616.jpg" crc="271275282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="escolar-crop-u464.jpg" crc="3898113915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ca_01_ajei_1c_pauladelgado-crop-u566.jpg" crc="84850980" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bolardo-crop-u610.jpg" crc="3843650620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u632-4.png" crc="260836253" ref="index"/>
+    <file name="u645-4.png" crc="4199921119" ref="index"/>
+    <file name="u664-4.png" crc="3874055078" ref="index"/>
+    <file name="u684-32.png" crc="128335764" ref="index"/>
+    <file name="u687-30.png" crc="112145606" ref="index"/>
+    <file name="u690-24.png" crc="4174841456" ref="index"/>
+    <file name="u679-4.png" crc="144998587" ref="index"/>
+    <file name="u869-4.png" crc="3984196838" ref="index"/>
+  </folder>
+  <file name="index.html" crc="127300740" seo="true" mt="1528724814593" redirect="true"/>
+</manifest>
